@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="course-information" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Pretext Syllabus</title>
+
+  <introduction>
+    <p>
+        <dl>
+        <li><title>Course No.</title><p>PTX ???</p></li>
+    </dl>
+    </p>
+  </introduction>
+
+  <subsection xml:id="subsec-sec">
+    <title>sec</title>
+    <p>
+        dkdid
+    </p>
+  </subsection>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+       <em>Course No.:</em>
+    </p>
+
+    <p>
+        PTX ???
+    </p>
+  </sidebyside>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+       <em>Semester:</em>
+    </p>
+
+    <p>
+        Fall 2024
+    </p>
+  </sidebyside>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+       <em>Credit Hours:</em>
+    </p>
+
+    <p>
+        1
+    </p>
+  </sidebyside>
+
+  <p>
+    <alert>Instructor Information</alert>
+  </p>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+       <em>Faculty Name:</em>
+    </p>
+
+    <p>
+        Rachel Perrier
+    </p>
+  </sidebyside>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+        <em>Office:</em>
+     </p>
+ 
+     <p>
+         CODA 218
+     </p>
+  </sidebyside>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+        <em>Phone:</em>
+     </p>
+ 
+     <p>
+        740-284-5278
+     </p>
+  </sidebyside>
+
+  <p>
+    <alert>Logistics</alert>
+  </p>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+       <em>Classroom:</em>
+    </p>
+
+    <p>
+        CODA 200
+    </p>
+  </sidebyside>
+
+
+</section>

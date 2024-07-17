@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="subsec-instructor-info" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Instructor Information</title>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+       <em>Faculty Name:</em>
+    </p>
+
+    <p>
+        Rachel Perrier
+    </p>
+  </sidebyside>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+        <em>Office:</em>
+     </p>
+ 
+     <p>
+         CODA 218
+     </p>
+  </sidebyside>
+
+  <sidebyside widths="20% 65%" margins="auto" valign="top">
+    <p>
+        <em>Phone:</em>
+     </p>
+ 
+     <p>
+        740-284-5278
+     </p>
+  </sidebyside>
+
+</subsection>
