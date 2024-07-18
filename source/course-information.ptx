@@ -7,94 +7,15 @@
     <p>
         <dl>
         <li><title>Course No.</title><p>PTX ???</p></li>
+
+        <li><title>Semester</title><p>Fall 2024</p></li>
     </dl>
     </p>
   </introduction>
 
-  <subsection xml:id="subsec-sec">
-    <title>sec</title>
-    <p>
-        dkdid
-    </p>
-  </subsection>
+  <xi:include href="./subsec-instructor-info.ptx" />
 
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-       <em>Course No.:</em>
-    </p>
-
-    <p>
-        PTX ???
-    </p>
-  </sidebyside>
-
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-       <em>Semester:</em>
-    </p>
-
-    <p>
-        Fall 2024
-    </p>
-  </sidebyside>
-
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-       <em>Credit Hours:</em>
-    </p>
-
-    <p>
-        1
-    </p>
-  </sidebyside>
-
-  <p>
-    <alert>Instructor Information</alert>
-  </p>
-
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-       <em>Faculty Name:</em>
-    </p>
-
-    <p>
-        Rachel Perrier
-    </p>
-  </sidebyside>
-
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-        <em>Office:</em>
-     </p>
- 
-     <p>
-         CODA 218
-     </p>
-  </sidebyside>
-
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-        <em>Phone:</em>
-     </p>
- 
-     <p>
-        740-284-5278
-     </p>
-  </sidebyside>
-
-  <p>
-    <alert>Logistics</alert>
-  </p>
-
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-       <em>Classroom:</em>
-    </p>
-
-    <p>
-        CODA 200
-    </p>
-  </sidebyside>
+  <xi:include href="./subsec-logistics.ptx" />
 
 
 </section>

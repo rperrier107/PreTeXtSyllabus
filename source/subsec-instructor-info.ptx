@@ -3,34 +3,20 @@
 <subsection xml:id="subsec-instructor-info" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Instructor Information</title>
 
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-       <em>Faculty Name:</em>
-    </p>
+  <p>
+   <dl>
+      <li>
+         <title>Faculty Name</title><p>Dr. Rachel Perrier</p></li>
 
-    <p>
-        Rachel Perrier
-    </p>
-  </sidebyside>
+         <li><title>Email</title><p>rperrier@franciscan.edu</p></li>
 
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-        <em>Office:</em>
-     </p>
- 
-     <p>
-         CODA 218
-     </p>
-  </sidebyside>
+         <li><title>Phone</title><p>740-284-5278</p></li>
 
-  <sidebyside widths="20% 65%" margins="auto" valign="top">
-    <p>
-        <em>Phone:</em>
-     </p>
- 
-     <p>
-        740-284-5278
-     </p>
-  </sidebyside>
+         <li><title>Office</title><p>CODA 214</p></li>
+
+         <li><title>Office Hours</title><p>TBA</p>
+      </li>
+   </dl>
+  </p>
 
 </subsection>
