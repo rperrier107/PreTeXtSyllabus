@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-course-details" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Details</title>
+
+  <introduction>
+    <p>
+        This part of the syllabus pertains to information and policies specific to this course.
+    </p>
+  </introduction>
+
+  <xi:include href="./subsec-course-description.ptx" />
+
+  <xi:include href="./subsec-course-materials.ptx" />
+
+  <xi:include href="./subsec-program-goals.ptx" />
+
+  <xi:include href="./subsec-learning-objectives.ptx" />
+
+  <xi:include href="./subsec-content-outlines.ptx" />
+
+  <xi:include href="./subsec-expectations.ptx" />
+
+  <xi:include href="./subsec-attendance.ptx" />
+
+  <xi:include href="./subsec-grading-policy.ptx" />
+
+
+</section>

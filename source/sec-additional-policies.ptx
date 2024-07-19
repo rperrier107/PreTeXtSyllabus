@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-additional-policies" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>University Policies</title>
+
+  <introduction>
+    <p>
+        This part of the syllabus contains the policies of Franciscan University of Steubenville, 
+        which we will follow in this course.
+    </p>
+  </introduction>
+
+  <xi:include href="./subsec-plagiarism.ptx" />
+
+  <xi:include href="./subsec-ada-statement.ptx" />
+
+
+</section>
